@@ -1,4 +1,3 @@
-
 {
   "author": "Flotype",
   "name": "now",
@@ -13,7 +12,7 @@
     "node": ">= v0.4.0"
   },
   "dependencies": {
-    "socket.io": ">= 0.8.7",
+    "socket.io": "git://github.com/zachaller/socket.io.git",
     "node-proxy": ">= 0.4.0"
 },
   "devDependencies": {}
