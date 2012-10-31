@@ -20,7 +20,7 @@ NowJS is a Node.js module. The client javascript (now.js) is served by the NowJS
 
 NowJS uses the excellent <a href="https://github.com/LearnBoost/Socket.IO-node">socket.io</a>.
 
-I have removed the node-proxy dependency now that node v0.8 and up support Proxyies, you just need to run node --harmony app.js to get it working.
+I have removed the node-proxy dependency now that node v0.8 and up support Proxyies, you just need to run "node --harmony app.js" to get it working.
 
 2 Step Setup
 ==============
