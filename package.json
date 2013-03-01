@@ -12,7 +12,7 @@
     "node": ">= v0.4.0"
   },
   "dependencies": {
-    "socket.io": ">= 0.8.7"
+    "socket.io": "git://github.com/LearnBoost/socket.io.git#37690f78d7e35422a8421b1d726381a7091cdd0d"
 },
   "devDependencies": {}
 }
